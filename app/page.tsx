@@ -67,7 +67,7 @@ export default function Home() {
               <h1 className="text-3xl md:text-4xl font-bold leading-snug">
                 專業油品運輸
                 <br />
-                為您守護每一趟能源配送
+                守護每一趟能源配送
               </h1>
               <p className="text-sm leading-relaxed text-blue-100">
                 川原企業有限公司專精於鍋爐燃料油、低硫燃料油及柴油配送，
@@ -591,7 +591,6 @@ export default function Home() {
               width="100%"
               height="100%"
               style={{ border: 0 }}
-              allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
